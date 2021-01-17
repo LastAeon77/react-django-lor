@@ -1,0 +1,9 @@
+/.vscode
+/backend/static
+/backend/staticfiles
+/backend/Procfile
+/backend/resources
+/frontend/node_modules
+__pycache__
+migrations
+templates
